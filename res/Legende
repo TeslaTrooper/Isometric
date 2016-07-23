@@ -1,0 +1,27 @@
+0 	= Dirt
+1 	= Bush
+2 	= Stone
+3 	= Cliff
+4 	= CliffOuterCorner
+5 	= Cliff (Reversed)
+6 	= Cliff RightCorner
+7 	= Cliff (Behind)
+8 	= Cliff (Behind-Reversed)
+9 	= Cliff LeftCorner
+: 	= Cliff TopCorner
+< 	= Cliff InnerCorner
+= 	= Cliff Small1
+>	= Cliff Small2
+?	= Cliff SmallOuterCorner
+@	= Cliff SmallRightCorner
+A	= Cliff SmallLeftCorner
+B	= Cliff Small1Behind
+C	= Cliff SmallCornerBehind
+D	= Cliff Small2Behind
+E	= Cliff SmallCornerRightInner
+F	= Cliff SmallCornerLeftInner
+G	= Cliff SmallCornerRightReversed
+H	= Cliff SmallCornerLeftReversed
+- 	= TileObject auf Ebene 1
+. 	= TileObject auf Ebene 2
+/ 	= TileObject auf Ebene 4
